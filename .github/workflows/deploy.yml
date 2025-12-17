@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - claude/next-stage-strategy-website-0128BTBdWe6dh8eZau4bFasE
+      - claude/build-landing-page-50VLW
   workflow_dispatch:
 
 permissions:
